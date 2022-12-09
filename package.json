@@ -1,0 +1,15 @@
+{
+  "name": "04-bases-de-node",
+  "version": "0.0.1",
+  "description": "Es una tabla de multiplicar con una base y genera un archivo a disco",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "s3v3ngu1a",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "yargs": "^17.6.2"
+  }
+}
